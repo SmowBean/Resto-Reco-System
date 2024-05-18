@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Restaurant</title>
+    <title>TastyTrails</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
@@ -57,7 +57,7 @@
       </div>
     </section>
     <section id="food">
-      <h2>TYPES OF RESTAURANT</h2>
+      <h2>TOP RESTAURANTS</h2>
       <div class="food-container container">
         <div class="food-type fruite">
           <div class="img-container">
@@ -68,7 +68,7 @@
                 href="https://en.wikipedia.org/wiki/Fruit"
                 class="btn btn-primary"
                 target="blank"
-                >learn more</a
+                >Learn more</a
               >
             </div>
           </div>
@@ -151,10 +151,9 @@
             <img src="https://i.postimg.cc/Yq98p5Z7/food-menu4.jpg" alt="" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Food Menu Item 4</h2>
+            <h2 class="food-titile">Filipino Style Dine</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+             Taste buds dancing, savor Filipino flavors, from crispy lechon to comforting adobo. A culinary adventure awaits!
             </p>
             <p class="food-price">Price: &#8377; 250</p>
           </div>
@@ -164,10 +163,9 @@
             <img src="https://i.postimg.cc/KYnDqxkP/food-menu5.jpg" alt="" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Food Menu Item 5</h2>
+            <h2 class="food-titile">Danish Style Food Hub</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              A taste of Denmark: Flaky pastries, open-faced sandwiches, and hygge vibes make Danish restaurants delightful.
             </p>
             <p class="food-price">Price: &#8377; 250</p>
           </div>
@@ -177,10 +175,9 @@
             <img src="https://i.postimg.cc/Jnxc8xQt/food-menu6.jpg" alt="" />
           </div>
           <div class="food-description">
-            <h2 class="food-titile">Food Menu Item 6</h2>
+            <h2 class="food-titile">Korean Steak House</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
-              quae.
+              A symphony of sizzling meats, spicy flavors, and vibrant colors, a Korean restaurant delights all senses.
             </p>
             <p class="food-price">Price: &#8377; 250</p>
           </div>
@@ -193,8 +190,8 @@
         <div class="testimonial-box">
           <div class="customer-detail">
             <div class="customer-photo">
-              <img src="https://i.postimg.cc/5Nrw360Y/male-photo1.jpg" alt="" />
-              <p class="customer-name">Ross Lee</p>
+              <img src="https://i.pinimg.com/564x/1f/7a/c3/1f7ac31324d658cf7549e015b93007c2.jpg" alt="" />
+              <p class="customer-name">Dan Lou Morales</p>
             </div>
           </div>
           <div class="star-rating">
@@ -205,8 +202,7 @@
             <span class="fa fa-star checked"></span>
           </div>
           <p class="testimonial-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit
-            voluptas cupiditate aspernatur odit doloribus non.
+            The restaurant offers an exceptional dining experience with its delectable and flavorful dishes. Each bite is a delightful explosion of taste, leaving you craving for more. The attention to detail in the food preparation and presentation is commendable, making it a top choice for food lovers seeking a memorable culinary experience.
           </p>
          
         </div>
@@ -217,7 +213,7 @@
                 src="https://i.postimg.cc/sxd2xCD2/female-photo1.jpg"
                 alt=""
               />
-              <p class="customer-name">Amelia Watson</p>
+              <p class="customer-name">Mj Valdez</p>
             </div>
           </div>
           <div class="star-rating">
@@ -228,8 +224,7 @@
             <span class="fa fa-star checked"></span>
           </div>
           <p class="testimonial-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit
-            voluptas cupiditate aspernatur odit doloribus non.
+            The restaurant truly delivers an outstanding culinary experience. The food is incredibly delicious, with flavors that leave a lasting impression. From the perfectly cooked main dishes to the delectable desserts, every bite is a delightful journey for the taste buds. A must-visit for food enthusiasts seeking gastronomic bliss.
           </p>
          
         </div>
@@ -237,7 +232,7 @@
           <div class="customer-detail">
             <div class="customer-photo">
               <img src="https://i.postimg.cc/fy90qvkV/male-photo3.jpg" alt="" />
-              <p class="customer-name">Ben Roy</p>
+              <p class="customer-name">Mark Ilagan</p>
             </div>
           </div>
           <div class="star-rating">
@@ -248,8 +243,7 @@
             <span class="fa fa-star checked"></span>
           </div>
           <p class="testimonial-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit
-            voluptas cupiditate aspernatur odit doloribus non.
+            The restaurant's food is absolutely mouthwatering. Each dish is expertly prepared with a burst of flavors that are both satisfying and memorable. It's a culinary gem that will leave you craving for more.
           </p>
          
         </div>
@@ -258,7 +252,7 @@
     <section id="contact">
       <div class="contact-container container">
         <div class="contact-img">
-          <img src="https://i.postimg.cc/1XvYM67V/restraunt2.jpg" alt="" />
+          <img src="https://i.pinimg.com/564x/ce/1b/eb/ce1beb065ab6e10cb2e5851130fd1d4a.jpg" alt="" />
         </div>
 
         <div class="form-container">
@@ -275,7 +269,7 @@
       </div>
     </section>
     <footer id="footer">
-      <h2>Restraunt &copy; all rights reserved</h2>
+      <h2>TastyTrails &copy; All rights reserved</h2>
     </footer>
   </body>
   <!-- 
