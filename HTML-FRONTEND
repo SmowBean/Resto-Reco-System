@@ -26,7 +26,7 @@
               <li><a href="#home">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#food">Category</a></li>
-              <li><a href="#food-menu">Menu</a></li>
+              <li><a href="#food-menu">Most Visit Restaurant</a></li>
               <li><a href="#testimonials">Testimonial</a></li>
               <li><a href="#contact">Contact</a></li>
           </ul>
@@ -38,7 +38,7 @@
       <div class="showcase-container">
         <h1 class="main-title" id="home">EAT THE RIGHT FOOD</h1>
         <p>Explore and indulge in our tasty adventures, near and far!</p>
-        <a href="#food-menu" class="btn btn-primary">Menu</a>
+        <a href="#food-menu" class="btn btn-primary">Most Visit Restaurant</a>
       </div>
     </section>
 
@@ -65,7 +65,7 @@
             <div class="img-content">
               <h3>AMERICAN</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Fruit"
+                href="https://www.tripadvisor.com.ph/Restaurants-g298573-c2-Manila_Metro_Manila_Luzon.html"
                 class="btn btn-primary"
                 target="blank"
                 >Learn more</a
@@ -79,7 +79,7 @@
             <div class="img-content">
               <h3>ITALIAN</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Vegetable"
+                href="https://www.tatlerasia.com/dining/food/best-italian-restaurants-philippines-2022"
                 class="btn btn-primary"
                 target="blank"
                 >Learn more</a
@@ -93,7 +93,7 @@
             <div class="img-content">
               <h3>SPANISH</h3>
               <a
-                href="https://en.wikipedia.org/wiki/Grain"
+                href="https://www.tripadvisor.com/Restaurants-g298573-c36-Manila_Metro_Manila_Luzon.html"
                 class="btn btn-primary"
                 target="blank"
                 >Learn more</a
