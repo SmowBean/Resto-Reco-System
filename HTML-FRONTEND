@@ -15,7 +15,7 @@
   </head>
   <body>
     <nav class="navbar">
-      <div class="navbar-container container">
+      <div class="navbar-container container"> 
           <input type="checkbox" name="" id="">
           <div class="hamburger-lines">
               <span class="line line1"></span>
@@ -36,6 +36,7 @@
   </nav>
     <section class="showcase-area" id="showcase">
       <div class="showcase-container">
+        
         <h1 class="main-title" id="home">EAT THE RIGHT FOOD</h1>
         <p>Explore and indulge in our tasty adventures, near and far!</p>
         <a href="#food-menu" class="btn btn-primary">Most Visit Restaurant</a>
@@ -46,13 +47,13 @@
       <div class="about-wrapper container">
         <div class="about-text">
           <p class="small">About Us</p>
-          <h2>We've been making healthy food for 10 years</h2>
+          <h2>We've been offering top rated restaurants for 10 years</h2>
           <p>
             Looking for a fantastic dining experience? Look no further than "Flavors of the World"! This charming restaurant offers a delectable menu, attentive service, and a cozy ambiance. From mouthwatering appetizers to tantalizing desserts, their diverse cuisine will leave you craving for more. Don't miss out on this culinary gem!
           </p>
         </div>
         <div class="about-img">
-          <img src="https://i.postimg.cc/mgpwzmx9/about-photo.jpg" alt="food" />
+          <img src="https://i.pinimg.com/564x/ee/43/df/ee43df70de3c21de25ff6d7c11577f17.jpg" alt="food" />
         </div>
       </div>
     </section>
@@ -61,7 +62,7 @@
       <div class="food-container container">
         <div class="food-type fruite">
           <div class="img-container">
-            <img src="https://i.postimg.cc/yxThVPXk/food1.jpg" alt="error" />
+            <img src="https://i.pinimg.com/564x/ee/4f/3e/ee4f3ec196261961e0a55dc4d3dc2ce2.jpg" alt="error" />
             <div class="img-content">
               <h3>AMERICAN</h3>
               <a
@@ -75,7 +76,7 @@
         </div>
         <div class="food-type vegetable">
           <div class="img-container">
-            <img src="https://i.postimg.cc/Nffm6Rkk/food2.jpg" alt="error" />
+            <img src="https://i.pinimg.com/564x/f7/89/28/f78928be8a33176afdf048641ecce355.jpg" alt="error" />
             <div class="img-content">
               <h3>ITALIAN</h3>
               <a
@@ -89,7 +90,7 @@
         </div>
         <div class="food-type grin">
           <div class="img-container">
-            <img src="https://i.postimg.cc/76ZwsPsd/food3.jpg" alt="error" />
+            <img src="https://i.pinimg.com/564x/39/5b/58/395b588cb91545094a5e5ae6c3d371f9.jpg" alt="error" />
             <div class="img-content">
               <h3>SPANISH</h3>
               <a
