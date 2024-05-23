@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Cambria", sans-serif;
 }
 
 /* ///////////..utility classes../////////// */
@@ -111,7 +111,7 @@ body {
       rgba(240, 240, 240, 0.144),
       rgba(255, 255, 255, 0.336)
     ),
-    url("https://i.postimg.cc/wT3TQS3V/header-image2.jpg");
+    url("https://i.pinimg.com/564x/f7/07/b6/f707b66501cac25654fc003601b97873.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -640,4 +640,3 @@ body {
     height: 50vmax;
   }
 }
-
