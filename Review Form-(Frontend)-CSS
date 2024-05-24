@@ -1,0 +1,89 @@
+
+```css
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('https://i.pinimg.com/564x/d0/f6/b4/d0f6b40e92dade2238e874ca97c8fa22.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw; /* Set the width of the body to 100% of the viewport width */
+  margin: 0;
+  transition: background-color 0.5s; /* Smooth transition for background color change */
+}
+
+.container {
+  background-color: #cad6d6; /* Remove the background color */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: auto; /* Center the container horizontally */
+  margin-top: 20vh; /* Add margin to the top to make the white background larger */
+  margin-bottom: 20vh; /* Add margin to the bottom to make the white background larger */
+  transition: box-shadow 0.3s; /* Smooth transition for box-shadow change */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: black; /* Change the heading color to white */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: black; /* Change the label color to white */
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid black; /* White border for input elements */
+  border-radius: 4px;
+  transition: border-color 0.3s; /* Smooth transition for border color change */
+  color: black; /* Change the text color to black */
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background for input elements */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  background-color: white ; /* White background color for the button */
+  color: Black; /* Blue color for the button text */
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s; /* Smooth transition for background color change */
+}
+
+button:hover {
+  background-color: #49b4b4; /* Lighter background color on hover */
+}
+
+button:disabled,
+button[disabled] {
+  background-color: blue;
+  cursor: not-allowed;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: black;
+  border-color: black; /* Darker blue color on focus */
+}
+```
+
